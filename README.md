@@ -9,4 +9,7 @@ If you want to use this extension, follow the steps below:
 8. Click on the Extensions icon in the chrome and open the "To-Do Extension".
 9. Try it for yourself🌱!
 
+This is how it's going to look!
+![image](https://github.com/user-attachments/assets/fe32c5b8-5026-4695-9449-ed3e1579ba87)
+
 Happy coding👩‍💻!
